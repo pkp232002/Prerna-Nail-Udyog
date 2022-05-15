@@ -1,0 +1,89 @@
+.toparea{
+	/* background:#F2C38B; */
+    background:#0b0c10;
+	padding:50px 0;
+	}
+.toparea h1{
+	/* color:#74353F; */
+    color:#66fcf1;
+    font-family: 'Aclonica', sans-serif;
+    text-align: center;
+	}
+footer{
+    align-items: center;
+}
+footer img{
+    width:300px;
+}
+.ankitarea{
+    width:300px;
+    height:auto;
+    float:left;
+    margin-left:50px;
+    margin-bottom: 20px;
+}
+.ritikarea{
+    width:300px;
+    height:300px;
+    float:left;
+    margin-left:50px;
+}
+/* Container holding the image and the text */
+.imgholder {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Center */
+  .centered {
+    position: absolute;
+    bottom: 30px;
+    left: 80px;
+    
+  }
+.container-fluid h2{
+    text-align:center;
+}
+.reviewarea{
+    width:400px;
+    height:auto;
+    
+}
+.review{
+    width:400px;
+    height:100px;
+
+}
+.review img{
+    height:50px;
+    width:auto;
+    border-radius: 50%;
+    margin-top: auto;
+    text-align: center;
+    float:left;
+    margin-right:5px;;
+}
+.sagararea{
+    width:300px;
+    height:auto;
+    float:left;
+    margin-left:50px;
+    margin-bottom: 20px;
+}
+.footarea{
+    width:100%;
+    background:#343A40;
+    height:100px;
+}
+.footarea1{
+    width:50%;
+    float:left;
+    height:50px;
+    background:#343A40;
+}
+.footarea p{
+    color:white;
+    text-align: center;
+}
+
